@@ -1,13 +1,15 @@
-[{
-	"id": 1,
-	"message": "error 1",
-	"timestamp": 1
-},{
-	"id": 2,
-	"message": "error 2",
-	"timestamp": 2
-},{
-	"id": 3,
-	"message": "error 3",
-	"timestamp": 3
-}]
+{
+	"data": [{
+		"id": 1,
+		"message": "error 1",
+		"timestamp": 1
+	},{
+		"id": 2,
+		"message": "error 2",
+		"timestamp": 2
+	},{
+		"id": 3,
+		"message": "error 3",
+		"timestamp": 3
+	}]
+}
